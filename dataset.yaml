@@ -1,0 +1,6 @@
+train: '/Users/ameermortaza/Desktop/YOLO Dataset/old_trainval_images_backup/trainval_images'
+val: /Users/ameermortaza/Desktop/YOLO Dataset/val
+test: /Users/ameermortaza/Desktop/YOLO Dataset/test_images
+
+nc: 1  # number of classes
+names: ['fan']

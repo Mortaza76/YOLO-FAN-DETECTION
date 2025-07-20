@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+env/
+yolo/lib/
+__pycache__/
+*.pyc
+
+# Ignore model weights and checkpoints
+*.pt
+*.pth
+runs/
